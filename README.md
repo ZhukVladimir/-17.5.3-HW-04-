@@ -1,2 +1,4 @@
-# -17.5.3-HW-04-
-Домашнее задание 17.5.3 (HW-04)
+for i in range(1, 11):
+    print()
+    for j in range(1, 11):
+        print(f'{i} * {j} = {i * j}')
